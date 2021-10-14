@@ -4,6 +4,7 @@
         <ul>
             <li><?php echo('<a href="home.php">Home</a><br>');?></li>
             <li><?php echo('<a href="minichat.php">Chat</a><br>');?></li>
+            <li><?php echo('<a href="index.php">Blog</a><br>');?></li>
             <li><?php echo('<a href="access.php">secured informations</a><br>');?></li>
             <li><?php echo('<a href="visit_counter.php">Visitor number</a><br>');?></li>
             <li><?php echo('<a href="insert_one.php">Ajouter le jeu Battlefield</a><br>');?></li>
